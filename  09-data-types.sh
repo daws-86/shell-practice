@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#everyting in shell considered as string
+#everything in shell considered as string
 
 NUMBER1=100
 NUMBER2=200
