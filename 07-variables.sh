@@ -1,7 +1,5 @@
 #!/bin/bash
 
-DATE=$(DATE)
-
-
+DATE=$(date)
 
 echo "Timestamp excuted: $DATE"
